@@ -6,3 +6,5 @@
 
 ### September
 Day 1 - Mongo DB (Basics): [Introduction to Mongo DB?](https://possible-maple-6a0.notion.site/Day-1-Introduction-to-Mongo-DB-36a86b07d87c47d28175c2e4943e1f1f)
+
+Day 2 - Mongo DB (Basics): [Querying a MongoDB Database](https://possible-maple-6a0.notion.site/Day-2-Querying-a-Mongo-DB-database-c7d0b400f13147ceba75436a48a14841)
