@@ -13,3 +13,5 @@ Day 1 - Mongo DB (Basics): [Introduction to Mongo DB?](https://possible-maple-6a
 Day 2 - Mongo DB (Introduction): [Exploring MongoDB Atlas](https://possible-maple-6a0.notion.site/Day-2-Exploring-MongoDB-Atlas-c7d0b400f13147ceba75436a48a14841)
 
 Day 3 - Mongo BD (Introduction): [CRUD operations in MongoDB](https://possible-maple-6a0.notion.site/Day-3-CRUD-Operations-in-MongoDB-RESTful-APIs-using-Node-js-2030216fab6d41c885f023a976cd2472)
+
+Day 4 - Mongo BD (Intermediate): [Advanced Querying in MongoDB - I](https://possible-maple-6a0.notion.site/Day-4-Advanced-CRUD-Operations-I-5691d47a1fd3427fbb310e9db9996b23)
