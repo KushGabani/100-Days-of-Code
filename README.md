@@ -17,3 +17,5 @@ Day 3 - Mongo DB (Introduction): [CRUD operations in MongoDB](https://possible-m
 Day 4 - Mongo DB (Intermediate): [Advanced Querying in MongoDB - I](https://possible-maple-6a0.notion.site/Day-4-Advanced-CRUD-Operations-I-5691d47a1fd3427fbb310e9db9996b23)
 
 Day 5 - Mongo DB (Intermediate): [Advanced Querying in MongoDB - II (Basic Array Operators](https://possible-maple-6a0.notion.site/Day-5-Advanced-CRUD-Operations-II-Basic-Array-Operators-12eb67bf2aff4dee972b2787059cb56e)
+
+Day 6 - Mongo DB (Advanced): [Advanced Array Operators, Indexes, Aggregation, Upsert, Data Modeling](https://possible-maple-6a0.notion.site/Day-6-Advanced-Array-Operators-Projections-and-Aggregation-b75c2282818a4f38878050dffdd1913a)
