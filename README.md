@@ -19,3 +19,8 @@ Day 4 - Mongo DB (Intermediate): [Advanced Querying in MongoDB - I](https://poss
 Day 5 - Mongo DB (Intermediate): [Advanced Querying in MongoDB - II (Basic Array Operators](https://possible-maple-6a0.notion.site/Day-5-Advanced-CRUD-Operations-II-Basic-Array-Operators-12eb67bf2aff4dee972b2787059cb56e)
 
 Day 6 - Mongo DB (Advanced): [Advanced Array Operators, Indexes, Aggregation, Upsert, Data Modeling](https://possible-maple-6a0.notion.site/Day-6-Advanced-Array-Operators-Projections-and-Aggregation-b75c2282818a4f38878050dffdd1913a)
+
+Day 8 - Mongo DB (Adanced): [Authentication and Authorization.](https://possible-maple-6a0.notion.site/Day-7-Authentication-and-Authorization-in-MongoDB-d987582d8e2a49eab8d503dbe907d89e)
+       Getting Started and Introduction to Docker
+
+Day 8 - Web Application: [JQuery and Spring boot application](https://possible-maple-6a0.notion.site/Day-8-JQuery-and-Spring-Boot-Application-with-ThymeLeaf-6dd47f65913347d5b20061de11e5ff50)
