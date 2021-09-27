@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+  <head>
+    <meta charset="ISO-8859-1" />
+    <title>Registration Success</title>
+  </head>
+  <body>
+    <h1>Thanks for filling out the form, Bugs</h1>
+    <h2 th:if="${student.javafun == 'Yes'}">Glad you're having fun</h2>
+    <h2 th:if="${student.javafun == 'No'}">Hope it gets better!</h2>
+
+    <h3 th:if="${student.subscribed}">
+      We'll add your email:<span th:text="${student.email}"></span>
+    </h3>
+    <h3 th:unless="${student.subscribed}">
+      We won't add your email to our list!
+    </h3>
+  </body>
+</html>

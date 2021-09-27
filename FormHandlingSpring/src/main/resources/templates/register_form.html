@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+  <head>
+    <meta charset="ISO-8859-1" />
+    <title>Is Java Fun?</title>
+  </head>
+  <body>
+    <form
+      action="#"
+      th:action="@{/register}"
+      method="post"
+      th:object="${student}"
+    >
+      <h1>Is Java Fun?</h1>
+      <input type="radio" th:field="*{javafun}" value="Yes" />Yes<br />
+      <input type="radio" th:field="*{javafun}" value="No" />No<br /><br />
+
+      <input type="checkbox" th:field="*{subscribed}" /><label
+        >Add to Mailing List</label
+      ><br />
+      <br />
+
+      <label>Name:</label>
+      <input type="text" th:field="*{name}" /><br />
+
+      <label>Email:</label>
+      <input type="text" th:field="*{email}" /><br />
+
+      <br />
+      <button type="submit">Submit</button>
+    </form>
+  </body>
+</html>
