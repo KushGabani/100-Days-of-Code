@@ -26,3 +26,5 @@ Day 8 - Mongo DB (Adanced): [Authentication and Authorization.](https://possible
 Day 8 - Web Application: [JQuery and Spring boot application](https://possible-maple-6a0.notion.site/Day-8-JQuery-and-Spring-Boot-Application-with-ThymeLeaf-6dd47f65913347d5b20061de11e5ff50)
 
 Day 9 - DBMS Concepts [Database Normalization](https://possible-maple-6a0.notion.site/Day-9-Database-Normalization-7ec364417ac74219862fac49e1cac3b7)
+
+Day 10 - Web Development [Jquery, LocalStorage in javascript Grid Layout]
