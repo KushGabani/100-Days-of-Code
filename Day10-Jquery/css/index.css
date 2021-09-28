@@ -1,0 +1,90 @@
+body,
+html {
+  margin: 0;
+  padding: 0;
+  height: 100vh;
+  background-color: #f2f2f2;
+}
+
+.content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-around;
+  height: 100%;
+  padding: 15px;
+}
+
+#header {
+  font-family: "Courier New", Courier, monospace;
+  font-size: 1.2em;
+  font-weight: bold;
+  text-align: center;
+}
+
+.gr {
+  font-size: 1.4em;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-template-areas:
+    "term1 one"
+    "term2 two"
+    "term3 three"
+    "term4 ";
+  grid-gap: 5px;
+}
+
+.term1 {
+  grid-area: term1;
+}
+.term2 {
+  grid-area: term2;
+}
+.term3 {
+  grid-area: term3;
+}
+.term4 {
+  grid-area: term4;
+}
+
+.list {
+  background-color: moccasin;
+}
+
+.list p {
+  font-size: 1.4em;
+  font-family: "Courier New", Courier, monospace;
+  color: darkgreen;
+  text-align: center;
+}
+
+section {
+  background-color: lightcoral;
+  padding: 10px;
+  margin: 5px;
+  color: white;
+}
+
+.term1-style {
+  background-color: cyan;
+  color: black;
+}
+
+.highlight-style {
+  background-color: yellow;
+  color: black;
+}
+
+.right {
+  height: 100%;
+  font-size: 0.8em;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: lightblue;
+}
+
+.right img {
+  border-radius: 10px;
+}

@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>patvicky-(Student Number)</title>
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="js/index.js"></script>
+    <link rel="stylesheet" href="css/index.css" />
+
+    <!-- Link to css/bootstrap.css -->
+    <link
+      rel="stylesheet"
+      href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"
+    />
+  </head>
+
+  <body>
+    <div class="content">
+      <div>
+        <p id="header"></p>
+        <hr />
+      </div>
+
+      <div class="list"></div>
+
+      <div class="gr">
+        <a onclick="showCourses(1)" href="#">
+          <section class="term1">Term 1</section>
+        </a>
+        <a onclick="toggleStyle()" href="#">
+          <div class="right one">Toggle Style</div>
+        </a>
+
+        <a onclick="showCourses(2)" href="#">
+          <section class="term2">Term 2</section>
+        </a>
+        <a onclick="highlightProg()" href="#">
+          <div class="right two">Highlight PROG</div>
+        </a>
+
+        <a onclick="showCourses(3)" href="#">
+          <section class="term3">Term 3</section>
+        </a>
+        <a href="pages/info.html">
+          <div class="right three">
+            <img src="images/me.jpeg" height="80px" />
+            <span>Go to 2nd Page</span>
+          </div>
+        </a>
+
+        <a onclick="showCourses(4)" href="#">
+          <section class="term4">Term 4</section>
+        </a>
+      </div>
+
+      <p id="footer"></p>
+    </div>
+  </body>
+</html>
