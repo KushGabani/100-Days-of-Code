@@ -32,3 +32,5 @@ Day 10 - Web Development [Jquery, LocalStorage in javascript Grid Layout]
 Day 11 - React.js Basics [React.js Basics]
 
 Day 12 - Test Driven Development, Getting started with Jetbrain's WebStorm [React.js + TDD]
+
+Day 13 - Unit Testing in JavaScript using Jest [Typescript and Jest Basics](https://possible-maple-6a0.notion.site/Day-13-Typescript-and-Jest-Basics-b98b486012b54940a75054f0856ba273)
