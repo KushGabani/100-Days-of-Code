@@ -20,7 +20,7 @@ Day 5 - Mongo DB (Intermediate): [Advanced Querying in MongoDB - II (Basic Array
 
 Day 6 - Mongo DB (Advanced): [Advanced Array Operators, Indexes, Aggregation, Upsert, Data Modeling](https://possible-maple-6a0.notion.site/Day-6-Advanced-Array-Operators-Projections-and-Aggregation-b75c2282818a4f38878050dffdd1913a)
 
-Day 8 - Mongo DB (Adanced): [Authentication and Authorization.](https://possible-maple-6a0.notion.site/Day-7-Authentication-and-Authorization-in-MongoDB-d987582d8e2a49eab8d503dbe907d89e)
+Day 7 - Mongo DB (Adanced): [Authentication and Authorization.](https://possible-maple-6a0.notion.site/Day-7-Authentication-and-Authorization-in-MongoDB-d987582d8e2a49eab8d503dbe907d89e)
        Getting Started and Introduction to Docker
 
 Day 8 - Web Application: [JQuery and Spring boot application](https://possible-maple-6a0.notion.site/Day-8-JQuery-and-Spring-Boot-Application-with-ThymeLeaf-6dd47f65913347d5b20061de11e5ff50)
@@ -28,3 +28,7 @@ Day 8 - Web Application: [JQuery and Spring boot application](https://possible-m
 Day 9 - DBMS Concepts [Database Normalization](https://possible-maple-6a0.notion.site/Day-9-Database-Normalization-7ec364417ac74219862fac49e1cac3b7)
 
 Day 10 - Web Development [Jquery, LocalStorage in javascript Grid Layout]
+
+Day 11 - React.js Basics [React.js Basics]
+
+Day 12 - Test Driven Development, Getting started with Jetbrain's WebStorm [React.js + TDD]
