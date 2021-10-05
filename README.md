@@ -36,3 +36,7 @@ Day 12 - Test Driven Development, Getting started with Jetbrain's WebStorm [Reac
 Day 13 - Unit Testing in JavaScript using Jest [Typescript and Jest Basics](https://possible-maple-6a0.notion.site/Day-13-Typescript-and-Jest-Basics-b98b486012b54940a75054f0856ba273)
 
 Day 14 - Unit Testing in Typescript using Jest (continue) [TypeScript and Jest Basics](https://possible-maple-6a0.notion.site/Day-14-TypeScript-Jest-continued-4dedcfb65186472fb393f9cf742fa632)
+
+Day 15 ----|
+Day 16 ----|---- Building a user interface in React.js + Typescript [Project-Chicago](https://github.com/KushGabani/Project-Chicago)
+Day 17 ----|
