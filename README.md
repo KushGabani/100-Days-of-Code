@@ -40,3 +40,5 @@ Day 14 - Unit Testing in Typescript using Jest (continue) [TypeScript and Jest B
 Day 15 ----|
 Day 16 ----|---- Building a user interface in React.js + Typescript [Project-Chicago](https://github.com/KushGabani/Project-Chicago)
 Day 17 ----|
+
+Day 18 - Unit Testing in Java using JUnit (JUnit)[https://possible-maple-6a0.notion.site/Day-18-100-Unit-Testing-in-Java-using-JUnit-9b3a338035de4d7ba64873177f7e20dc]
