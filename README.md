@@ -37,8 +37,12 @@ Day 13 - Unit Testing in JavaScript using Jest [Typescript and Jest Basics](http
 
 Day 14 - Unit Testing in Typescript using Jest (continue) [TypeScript and Jest Basics](https://possible-maple-6a0.notion.site/Day-14-TypeScript-Jest-continued-4dedcfb65186472fb393f9cf742fa632)
 
-Day 15 ----|
-Day 16 ----|---- Building a user interface in React.js + Typescript [Project-Chicago](https://github.com/KushGabani/Project-Chicago)
-Day 17 ----|
+Day 15 ----|<br />
+Day 16 ----|---- Building a user interface in React.js + Typescript [Project-Chicago](https://github.com/KushGabani/Project-Chicago) <br />
+Day 17 ----|<br />
 
 Day 18 - Unit Testing in Java using JUnit (JUnit)[https://possible-maple-6a0.notion.site/Day-18-100-Unit-Testing-in-Java-using-JUnit-9b3a338035de4d7ba64873177f7e20dc]
+
+Day 19 - Graph Theory Basics
+
+Day 20 - Working with Liss III satellite images and creating a false color composite
