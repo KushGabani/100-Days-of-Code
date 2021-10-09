@@ -41,7 +41,7 @@ Day 15 ----|<br />
 Day 16 ----|---- Building a user interface in React.js + Typescript [Project-Chicago](https://github.com/KushGabani/Project-Chicago) <br />
 Day 17 ----|<br />
 
-Day 18 - Unit Testing in Java using JUnit (JUnit)[https://possible-maple-6a0.notion.site/Day-18-100-Unit-Testing-in-Java-using-JUnit-9b3a338035de4d7ba64873177f7e20dc]
+Day 18 - Unit Testing in Java using JUnit [Unit](https://possible-maple-6a0.notion.site/Day-18-100-Unit-Testing-in-Java-using-JUnit-9b3a338035de4d7ba64873177f7e20dc)
 
 Day 19 - Graph Theory Basics
 
