@@ -1,8 +1,8 @@
 import React from "react";
-import Home from "./pages/Home";
+import ProductPage from "./pages/ProductPage";
 
 const App = ():React.ReactElement => {
-  return <Home/>;
+  return <ProductPage/>;
 };
 
 export default App;
