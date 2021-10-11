@@ -46,3 +46,9 @@ Day 18 - Unit Testing in Java using JUnit [Unit](https://possible-maple-6a0.noti
 Day 19 - Graph Theory Basics
 
 Day 20 - Working with Liss III satellite images and creating a false color composite
+
+Day 21 - User Interface for E-Commerce using React.js + TypeScript [Project-Chicago](https://possible-maple-6a0.notion.site/Day-21-User-Interface-for-E-commerce-using-React-js-TypeScript-2136d59b3cf34a5fb3762fcfdd7b5b9b)
+
+Day 22 - Two Pointer methods for Arrays and Fast-slow pointer methods for linked list [Leet Code](https://leetcode.com/tag/two-pointers/)
+
+Day 23 - Manually Build Decision Tree for Land Cover Classification of LISS III images and Find the Dual band configuration for the decision tree
