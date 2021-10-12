@@ -52,3 +52,5 @@ Day 21 - User Interface for E-Commerce using React.js + TypeScript [Project-Chic
 Day 22 - Two Pointer methods for Arrays and Fast-slow pointer methods for linked list [Leet Code](https://leetcode.com/tag/two-pointers/)
 
 Day 23 - Manually Build Decision Tree for Land Cover Classification of LISS III images and Find the Dual band configuration for the decision tree
+
+Day 24 - Introduction and Basics to Angular Framework and PWA [Angular Crash Course by Traversy Media](https://possible-maple-6a0.notion.site/Day-24-Introduction-to-PWA-and-Angular-Framework-22482484823c460193fbc106966a46a5)
