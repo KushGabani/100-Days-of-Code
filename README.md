@@ -54,3 +54,5 @@ Day 22 - Two Pointer methods for Arrays and Fast-slow pointer methods for linked
 Day 23 - Manually Build Decision Tree for Land Cover Classification of LISS III images and Find the Dual band configuration for the decision tree
 
 Day 24 - Introduction and Basics to Angular Framework and PWA [Angular Crash Course by Traversy Media](https://possible-maple-6a0.notion.site/Day-24-Introduction-to-PWA-and-Angular-Framework-22482484823c460193fbc106966a46a5)
+
+Day 25 - Building a full-stack application using Angular + Spring Boot [Angular + Spring boot](https://possible-maple-6a0.notion.site/Day-25-Building-a-full-stack-application-using-Angular-Spring-Boot-550db39513cf4c9ca1b930c06a8a44f3)
