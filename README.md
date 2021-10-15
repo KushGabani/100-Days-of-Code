@@ -58,3 +58,5 @@ Day 24 - Introduction and Basics to Angular Framework and PWA [Angular Crash Cou
 Day 25 - Building a full-stack application using Angular + Spring Boot [Angular + Spring boot](https://possible-maple-6a0.notion.site/Day-25-Building-a-full-stack-application-using-Angular-Spring-Boot-550db39513cf4c9ca1b930c06a8a44f3)
 
 Day 26 - Heuristic Optimizations for SQL Queryies and Relational Alegbra Query Trees [Database Concepts](https://possible-maple-6a0.notion.site/Day-25-Heuristic-Optimizations-for-SQL-Queries-and-Relational-Algebra-Query-Tree-7825d52e983a4289834378e9df9b0ab9)
+
+Day 27 - Neural Networks and Backpropagation [Implement Backpropagation manually](https://possible-maple-6a0.notion.site/Day-26-Neural-Networks-and-Backpropagation-86faa09af3924d199edc7bb6c94bff8a)
