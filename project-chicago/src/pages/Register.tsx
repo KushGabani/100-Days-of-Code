@@ -78,6 +78,49 @@ const Register = (): React.ReactElement => {
                 <Input placeholder="email"/>
                 <Input placeholder="password"/>
                 <Input placeholder="confirm password"/>
+                {/*
+                i picked up the pieces you were in
+                left everything else, held them together
+                glued them back in
+                Though the corners hurt me,
+                the reflections amused me.
+                will i able to to see you
+                in the dark when ONLY the lights are down low?
+                tell me, we could be the light and everything else
+
+                i could see it all coming back
+                the echos from the past
+                now i got no one but myself to blame
+                do i still think i'm in love with you?
+                yes I DO. Oh, I still do
+                but it's just the memories and what it meant
+                to feel at home, laying by the white sheets
+                we chose to woke besides each other, you were my
+                new pillowohohohohuuuuuuuu. a new pillow
+
+                you ask me now, again
+                for the hundredth time
+                "will i get a new sheet?
+                can you promise this'll not be just another braided bath mat
+                or a shower curtain"
+                it won't be like everyone else
+                but it'll be homeeeeeeeee,
+                just make tomorrow better than today
+                not for us but you
+
+                could you see it coming back?
+                the waves to the shore
+                now you got everywhere to surf
+                do you still think you could wait for the sunrise?
+                yes you do. oh, you still do.
+                but it's just the moon pulling closer
+                to feel at home, lying at the shore
+                we chose to woke besides each other, you were my
+                new pillow. oh my new pillow.
+
+                wake up now, i have another place to go.
+
+            */}
                 <Agreement>
                     By creating an account, I consent to the processing of my personal
                     data in accordance with the <b>PRIVACY POLICY</b>
