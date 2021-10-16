@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/LENOVO/Desktop/100-Days-of-code/GDT-C/DirectoryTree.cpp
+string
+-
+GTNode.cpp
+C:/Users/LENOVO/Desktop/100-Days-of-code/GDT-C/GTNode.cpp
+bits/stdc++.h
+-
+
+C:/Users/LENOVO/Desktop/100-Days-of-code/GDT-C/GTNode.cpp
+string
+-
+utility
+-
+
+C:/Users/LENOVO/Desktop/100-Days-of-code/GDT-C/driver.cpp
+map
+-
+string
+-
+DirectoryTree.cpp
+C:/Users/LENOVO/Desktop/100-Days-of-code/GDT-C/DirectoryTree.cpp
+bits/stdc++.h
+-
+

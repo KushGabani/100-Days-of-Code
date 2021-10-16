@@ -42,7 +42,7 @@ int main() {
 
     string prompt;
     do {
-        cout << "Enter sentence: ";
+        cout << "command > ";
         getline(cin, prompt);
 
         // split the input prompt into a vector of words

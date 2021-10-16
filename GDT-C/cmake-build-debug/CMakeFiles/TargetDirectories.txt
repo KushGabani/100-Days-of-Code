@@ -1,0 +1,3 @@
+C:/Users/LENOVO/Desktop/100-Days-of-code/GDT-C/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/LENOVO/Desktop/100-Days-of-code/GDT-C/cmake-build-debug/CMakeFiles/GDT_C.dir
+C:/Users/LENOVO/Desktop/100-Days-of-code/GDT-C/cmake-build-debug/CMakeFiles/rebuild_cache.dir
