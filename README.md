@@ -62,3 +62,5 @@ Day 26 - Heuristic Optimizations for SQL Queryies and Relational Alegbra Query T
 Day 27 - Neural Networks and Backpropagation [Implement Backpropagation manually](https://possible-maple-6a0.notion.site/Day-26-Neural-Networks-and-Backpropagation-86faa09af3924d199edc7bb6c94bff8a)
 
 Day 28 - General Directory Tree and a directory operations driver [General Directory Tree](https://possible-maple-6a0.notion.site/Day-27-General-Directory-Tree-a85bcffa0e7a4491a57ebd13fedf9734)
+
+Day 29 - User Interface for Portfolio website and Introduction to gatsby.js [UI and Gatsby.js](https://possible-maple-6a0.notion.site/Day-28-Build-User-Interface-for-Portfolio-and-Gatsby-js-158594b767c34e37bb8e47b9747997ae)
