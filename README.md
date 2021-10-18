@@ -64,3 +64,5 @@ Day 27 - Neural Networks and Backpropagation [Implement Backpropagation manually
 Day 28 - General Directory Tree and a directory operations driver [General Directory Tree](https://possible-maple-6a0.notion.site/Day-27-General-Directory-Tree-a85bcffa0e7a4491a57ebd13fedf9734)
 
 Day 29 - User Interface for Portfolio website and Introduction to gatsby.js [UI and Gatsby.js](https://possible-maple-6a0.notion.site/Day-28-Build-User-Interface-for-Portfolio-and-Gatsby-js-158594b767c34e37bb8e47b9747997ae)
+
+Day 30 - Basics of Gatsby.js and UI design (continue) [Gatsby.js](https://possible-maple-6a0.notion.site/Day-30-Introduction-to-Gatsby-js-2cd4b9f9f5234536a3306d027ac668a1)
