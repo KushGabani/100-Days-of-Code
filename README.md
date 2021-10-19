@@ -66,3 +66,5 @@ Day 28 - General Directory Tree and a directory operations driver [General Direc
 Day 29 - User Interface for Portfolio website and Introduction to gatsby.js [UI and Gatsby.js](https://possible-maple-6a0.notion.site/Day-28-Build-User-Interface-for-Portfolio-and-Gatsby-js-158594b767c34e37bb8e47b9747997ae)
 
 Day 30 - Basics of Gatsby.js and UI design (continue) [Gatsby.js](https://possible-maple-6a0.notion.site/Day-30-Introduction-to-Gatsby-js-2cd4b9f9f5234536a3306d027ac668a1)
+
+Day 31 - Developing with Gatsby.js using contentful as a CMS [Gatsby.js](https://possible-maple-6a0.notion.site/Day-31-Developing-with-gatsby-js-using-contentful-as-a-CMS-95a9d004d79d4d79861b0233fb689356)
