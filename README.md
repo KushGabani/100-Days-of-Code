@@ -68,3 +68,7 @@ Day 29 - User Interface for Portfolio website and Introduction to gatsby.js [UI 
 Day 30 - Basics of Gatsby.js and UI design (continue) [Gatsby.js](https://possible-maple-6a0.notion.site/Day-30-Introduction-to-Gatsby-js-2cd4b9f9f5234536a3306d027ac668a1)
 
 Day 31 - Developing with Gatsby.js using contentful as a CMS [Gatsby.js](https://possible-maple-6a0.notion.site/Day-31-Developing-with-gatsby-js-using-contentful-as-a-CMS-95a9d004d79d4d79861b0233fb689356)
+
+Day 32 |
+Day 33 |---- Developing Portfolio website using gatsby.js (User interface) [https://kushgabani.github.io/portfolio-website](https://possible-maple-6a0.notion.site/Day-33-Portfolio-Website-in-Gastby-js-User-Interface-4baabd6596c74ec2a64126fd85eb5604)
+Day 34 |
