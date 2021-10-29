@@ -80,3 +80,10 @@ Day 35 Creating Docker Images [Docker](https://possible-maple-6a0.notion.site/Da
 Day 36 Port and Volume Mapping in Docker [Docker](https://possible-maple-6a0.notion.site/Day-36-Port-and-Volume-Mapping-in-Docker-da7452c9c0c440798ed3e1155a66f59c)
 
 Day 37 Networking in Docker, Docker Storage devices and file systems [Docker](https://possible-maple-6a0.notion.site/Day-37-Networking-in-Docker-Docker-storage-devices-and-file-systems-e558899df35c4c1bb1f1f598ef692f27)
+
+
+Day 38 ----|
+Day 39 ----|---- Develop the responsive portfolio-website
+Day 40 ----|
+
+Day 41 Building a console Othello game in C#
