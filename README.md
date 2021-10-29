@@ -83,7 +83,9 @@ Day 37 Networking in Docker, Docker Storage devices and file systems [Docker](ht
 
 
 Day 38 ----|
+
 Day 39 ----|---- Develop the responsive portfolio-website
+
 Day 40 ----|
 
 Day 41 Building a console Othello game in C#
