@@ -88,4 +88,10 @@ Day 39 ----|---- Develop the responsive portfolio-website
 
 Day 40 ----|
 
-Day 41 Building a console Othello game in C#
+Day 41 Building a console Othello game in C# [C# Coding Challenge](https://possible-maple-6a0.notion.site/Day-41-Building-a-console-Othello-checkers-game-in-C-bd19d78694454e80913ec91930fe577a)
+
+Day 42 - Introduction to DevOps and its terminologies [DevOps](https://possible-maple-6a0.notion.site/Day-42-Introduction-to-DevOps-and-its-terminology-a6ffe6c4cf8d414182c4ba080103b942)
+
+Day 43 - CI/CS, Github Actions, Automated Code Workflows [DevOps](https://possible-maple-6a0.notion.site/Day-43-CI-CD-Github-Actions-Automated-Workflows-f3975e97a27d4486bb0751a00223aab0)
+
+Day 44 - Building an open-source music discord bot [Radiokey](https://githuv.com/KushGabani/radiokey)
