@@ -74,3 +74,24 @@ Day 32 ----|
 Day 33 ----|---- Developing Portfolio website using gatsby.js (User interface) [https://kushgabani.github.io/portfolio-website](https://possible-maple-6a0.notion.site/Day-33-Portfolio-Website-in-Gastby-js-User-Interface-4baabd6596c74ec2a64126fd85eb5604)
 
 Day 34 Containerization with Docker [Docker](https://possible-maple-6a0.notion.site/Day-34-Containerization-with-Docker-a5bac3763b474165917bd5282ddc9522)
+
+Day 35 Creating Docker Images [Docker](https://possible-maple-6a0.notion.site/Day-35-Creating-docker-images-7dd6c0333b7342669db78345eb54b601)
+
+Day 36 Port and Volume Mapping in Docker [Docker](https://possible-maple-6a0.notion.site/Day-36-Port-and-Volume-Mapping-in-Docker-da7452c9c0c440798ed3e1155a66f59c)
+
+Day 37 Networking in Docker, Docker Storage devices and file systems [Docker](https://possible-maple-6a0.notion.site/Day-37-Networking-in-Docker-Docker-storage-devices-and-file-systems-e558899df35c4c1bb1f1f598ef692f27)
+
+
+Day 38 ----|
+
+Day 39 ----|---- Develop the responsive portfolio-website
+
+Day 40 ----|
+
+Day 41 Building a console Othello game in C# [C# Coding Challenge](https://possible-maple-6a0.notion.site/Day-41-Building-a-console-Othello-checkers-game-in-C-bd19d78694454e80913ec91930fe577a)
+
+Day 42 - Introduction to DevOps and its terminologies [DevOps](https://possible-maple-6a0.notion.site/Day-42-Introduction-to-DevOps-and-its-terminology-a6ffe6c4cf8d414182c4ba080103b942)
+
+Day 43 - CI/CS, Github Actions, Automated Code Workflows [DevOps](https://possible-maple-6a0.notion.site/Day-43-CI-CD-Github-Actions-Automated-Workflows-f3975e97a27d4486bb0751a00223aab0)
+
+Day 44 - Building an open-source music discord bot [Radiokey](https://githuv.com/KushGabani/radiokey)
