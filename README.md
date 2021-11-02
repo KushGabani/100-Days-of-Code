@@ -95,3 +95,5 @@ Day 42 - Introduction to DevOps and its terminologies [DevOps](https://possible-
 Day 43 - CI/CS, Github Actions, Automated Code Workflows [DevOps](https://possible-maple-6a0.notion.site/Day-43-CI-CD-Github-Actions-Automated-Workflows-f3975e97a27d4486bb0751a00223aab0)
 
 Day 44 - Building an open-source music discord bot [Radiokey](https://githuv.com/KushGabani/radiokey)
+
+Day 25 - Developing portfolio website in gatsby [portfolio-website](https://kushgabani.gtsb.io)
